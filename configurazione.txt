@@ -1,0 +1,17 @@
+banchine 10
+lato 1000
+merci 5
+fill 10000
+days 10
+speed 500
+capacity 10
+loadspeed 200
+porti 10
+navi 100
+swell 24
+storm 6
+maelstrom 10
+minvita 3
+maxvita 10
+size 1
+threshold 0.5
