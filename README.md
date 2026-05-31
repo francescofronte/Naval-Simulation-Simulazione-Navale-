@@ -1,6 +1,9 @@
 # Naval Simulation (Simulazione Navale)
 Modular C project simulating the transit of several cargo ships between harbours. Developed as a solution to the assignment of the Operating Systems course (2022/2023)
 
+# Run the project
+Download all files locally in a folder on your machine (a Linux OS is required). Open the shell in the folder and run 'make' to compile the code using the makefile. Then run: ./simulazioneNavale\
+If you want to change the configuration parameters, edit their values in the file "configurazione.txt".
 
 ## Project Report
 In the following report, the design choices made during the development of the “Naval Simulation” application for the final project of the Operating Systems Course, academic year 2022/2023, are summarized.
